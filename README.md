@@ -7,6 +7,7 @@
 - Music
 - Other (epilepsy/seizure warning for links)
 - Other again
+- Sample Title
 
 ---
 
@@ -169,3 +170,9 @@ I thought I was a good programmer until I started writing ["Luthetus.Ide" (githu
 - [Miley Cyrus - The Climb](https://youtu.be/NG2zyeVRcbs?si=N9nR7AIKdNxtIUmg)
 - [Alessia Cara - How Far I'll Go (Official Video)](https://youtu.be/ZNra8eK0K6k?si=Ui8IjVs0spJ6fXhG)
 - [Vanessa Carlton - Ordinary Day](https://youtu.be/zdmbjaReGmY?si=wE9yZhFsbVGCEmYl)
+
+---
+
+## Sample Title
+
+- [Dreariness - The Blue](https://youtu.be/hC9ptWL-SQg?si=E06Wh_F2aayUpObe)
