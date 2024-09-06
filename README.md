@@ -184,3 +184,4 @@ I thought I was a good programmer until I started writing ["Luthetus.Ide" (githu
 - [Radiohead - Everything in its Right Place (HD)](https://youtu.be/zJdYlUiWAVY?si=c6HzQ17Hhkm48Ufm)
 - [Radiohead - Motion Picture Soundtrack](https://youtu.be/EcSvMFm2ABE?si=LqNqwRAMExZHfTmz)
 - [Daughter - Switzerland](https://youtu.be/BDm0qtQWA_o?si=BZf4qkT-7t_J5JCZ)
+- [The String Quartet Tribute To My Chemical Romance - Early Sunsets Over Monroeville](https://youtu.be/IPROCUZpIdE?si=XVfVZxr53r4y6Ld7)
