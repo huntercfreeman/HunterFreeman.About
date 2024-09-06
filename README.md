@@ -185,3 +185,4 @@ I thought I was a good programmer until I started writing ["Luthetus.Ide" (githu
 - [Radiohead - Motion Picture Soundtrack](https://youtu.be/EcSvMFm2ABE?si=LqNqwRAMExZHfTmz)
 - [Daughter - Switzerland](https://youtu.be/BDm0qtQWA_o?si=BZf4qkT-7t_J5JCZ)
 - [The String Quartet Tribute To My Chemical Romance - Early Sunsets Over Monroeville](https://youtu.be/IPROCUZpIdE?si=XVfVZxr53r4y6Ld7)
+- [Lana Del Rey - Video Games](https://youtu.be/cE6wxDqdOV0?si=anllWJHXRDThPt0J)
