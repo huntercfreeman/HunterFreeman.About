@@ -5,7 +5,7 @@
 - Existential Dread
 - Clips
 - Music
-- Other (epilepsy/seizure warning for links)
+- Other
 - Other again
 - Sample Title
 
