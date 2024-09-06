@@ -1,6 +1,6 @@
 # HunterFreeman.About
 
-## Table of Contents
+## Table of Contents (some video links have a lot of flashing lights)
 - Background Information
 - Existential Dread
 - Clips
@@ -93,7 +93,7 @@ I thought I was a good programmer until I started writing ["Luthetus.Ide" (githu
 
 ---
 
-## Clips (flashing lights warning for links)
+## Clips
 
 - [Trainspotting - Choose Life - Opening scene - HD WITH ENGLISH SUBTITLES](https://youtu.be/SaP7qmsQbSI?si=EsEZdDbsGNbB_Cd-)
 - [(Trainspotting 2) Choose Life - 2017 (HD) (CC)](https://youtu.be/PgsfVJMWL0E?si=fHeoJnkMgSddXPYv)
@@ -104,7 +104,7 @@ I thought I was a good programmer until I started writing ["Luthetus.Ide" (githu
 
 ---
 
-## Music (flashing lights warning for links)
+## Music
 
 - [Falling In Reverse - "The Drug In Me Is Reimagined"](https://youtu.be/B2cbhYihBWY?si=B4xwLK_CtsY9G98G)
 - [DREARINESS - Essence (subtitulado)](https://youtu.be/tz6ptvVnnXo?si=Y2ck3Se1PWngYAgu)
@@ -135,7 +135,7 @@ I thought I was a good programmer until I started writing ["Luthetus.Ide" (githu
 
 ---
 
-## Other (flashing lights warning for links)
+## Other
 
 - [Crystal Castles - Sad Eyes](https://youtu.be/JjAdfDrh8v0?si=2RClE-Ez_imzXoFU)
 - [Alice Glass - Forgiveness (Official Video)](https://youtu.be/TtI9003nzro?si=rSj0mnbBOyUfcXWN)
@@ -148,7 +148,7 @@ I thought I was a good programmer until I started writing ["Luthetus.Ide" (githu
 
 ---
 
-## Other again (flashing lights warning for links)
+## Other again
 
 - [Scary Kids Scaring Kids - A Pistol To My Temple](https://youtu.be/HIJs6Sz1G3s?si=ZJYfYtp-S6NjSBzH)
 - [The Devil Wears Prada - HTML Rulez D00d (Official Music Video)](https://youtu.be/1XUeiYieYK4?si=1WUZFSGSGWr6McQV)
@@ -173,7 +173,7 @@ I thought I was a good programmer until I started writing ["Luthetus.Ide" (githu
 
 ---
 
-## Sample Title (flashing lights warning for links)
+## Sample Title
 
 - [Punch Brothers - Familiarity](https://youtu.be/Sya6Jh2pwzA?si=3KhWl1jV0Q5SI7px)
 - [Dreariness - The Blue](https://youtu.be/hC9ptWL-SQg?si=E06Wh_F2aayUpObe)
