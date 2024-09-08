@@ -17,37 +17,11 @@
 
 This repo is meant to be a comforting message to anyone who feels similarly to how I did.
 
-Many years ago, I remember trying to talk to people about how I felt.
+Many years ago, I remember trying to talk to people about how I felt. But, I often found that my thoughts were ignored, and I would just be given a prescription for an antipsychotic. This pattern of being shut down anytime I spoke up about how I felt, only served to push me further into depression. I think it is important to validate the reality of how bleak life can be when viewed with a cynical lens. But, then go on to show them the impact of one's decisions in life. Because yes, life can seem bleak, but it is the cynical lens they see the world through that puts all the good out of focus.
 
-But, I often found that my thoughts were ignored, and I would just be given a prescription for an antipsychotic.
+For example, starting a task is usually met with desires to procrastinate or some feeling of anxiety. If the initial suffering is all someone sees, then it is resonable for them to not feel well. This is illustrated by two different mindsets. Is every task that needs done, visually represented by the same singular mountain. And the mountain continues to grow in height, and is never ending suffering. Or is every task broken up into individual mountains. And at the end of each task there is a rush of excitement and fun.
 
-This pattern of being shut down anytime I spoke up about how I felt, only served to push me further into depression.
-
-I think it is important to validate the reality of how bleak life can be when viewed with a cynical lens.
-
-But, then go on to show them the impact of one's decisions in life. Because yes, life can seem bleak, but it is the cynical lens they see the world through that puts all the good out of focus.
-
-For example, starting a task is usually met with desires to procrastinate or some feeling of anxiety. If the initial suffering is all someone sees, then it is resonable for them to not feel well.
-
-This is illustrated by two different mindsets.
-
-Is every task that needs done, visually represented by the same singular mountain. And the mountain continues to grow in height, and is never ending suffering.
-
-Or is every task broken up into individual mountains. And at the end of each task there is a rush of excitement and fun.
-
-Below, I had linked to the song [Daughter - Medicine lyrics](https://youtu.be/sf6mkYz4mx0?si=inJgplfZ8NJF_BuO).
-
-I deliberated a lot prior to adding the song link.
-
-One line of the lyrics is: "you've got a beautiful brain but its disintegrated from all the medicine."
-
-This is how I felt while I was on antipsychotics. But, I want to make it clear that one should listen to their psychiatrist or therapist. They are trained, and want to help you.
-
-I had been on pill form antipsychotics, and monthly injectables, for about a year at one point.
-
-Yet, I think my brain is working fine, it doesn't seem to have disintegrated. 
-
-The antipsychotics can help stabilize you, and if you want to stop taking them because of the dreariness they cause, then work with your psychiatrist / therapist, to come up with a plan.
+Below, I had linked to the song [Daughter - Medicine lyrics](https://youtu.be/sf6mkYz4mx0?si=inJgplfZ8NJF_BuO). I deliberated a lot prior to adding the song link. One line of the lyrics is: "you've got a beautiful brain but its disintegrated from all the medicine." This is how I felt while I was on antipsychotics. But, I want to make it clear that one should listen to their psychiatrist or therapist. They are trained, and want to help you. I had been on pill form antipsychotics, and monthly injectables, for about a year at one point. Yet, I think my brain is working fine, it doesn't seem to have disintegrated.  The antipsychotics can help stabilize you, and if you want to stop taking them because of the dreariness they cause, then work with your psychiatrist / therapist, to come up with a plan.
 
 It is worth getting better. It is challenging but I look back at Luthetus.Ide and I sometimes am brought to tears to think that I somehow made it so far. It feels like a goosebumps, chilling, beauty to look back at the time I spent. There have been lows, mediums, and highs. But these emotions all come together to create an experience that is worth it.
 
