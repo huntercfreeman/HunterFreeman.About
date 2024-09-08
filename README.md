@@ -27,11 +27,11 @@ I think it is important to validate the reality of how bleak life can be when vi
 
 But, then go on to show them the impact of one's decisions in life. Because yes, life can seem bleak, but it is the cynical lens they see the world through that puts all the good out of focus.
 
-For example, starting a task is usually met with desires to procrastinate or some feeling of anxiety. If the initial sufferring is all someone sees, then it is resonable for them to not feel well.
+For example, starting a task is usually met with desires to procrastinate or some feeling of anxiety. If the initial suffering is all someone sees, then it is resonable for them to not feel well.
 
 This is illustrated by two different mindsets.
 
-Is every task that needs done, visually represented by the same singular mountain. And the mountain continues to grow in height, and is never ending sufferring.
+Is every task that needs done, visually represented by the same singular mountain. And the mountain continues to grow in height, and is never ending suffering.
 
 Or is every task broken up into individual mountains. And at the end of each task there is a rush of excitement and fun.
 
@@ -49,7 +49,7 @@ Yet, I think my brain is working fine, it doesn't seem to have disintegrated.
 
 The antipsychotics can help stabilize you, and if you want to stop taking them because of the dreariness they cause, then work with your psychiatrist / therapist, to come up with a plan.
 
-It is worth getting better. It is challenging but I look back at Luthetus.Ide and I sometimes am brought to tears sometimes to think that I somehow made it. It feels like a goosebumps, chilling, beauty to look back at the time I spent. There have been lows, mediums, and highs. But these emotions all come together to create an experience that is worth it.
+It is worth getting better. It is challenging but I look back at Luthetus.Ide and I sometimes am brought to tears to think that I somehow made it. It feels like a goosebumps, chilling, beauty to look back at the time I spent. There have been lows, mediums, and highs. But these emotions all come together to create an experience that is worth it.
 
 ---
 
