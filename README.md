@@ -49,7 +49,7 @@ Yet, I think my brain is working fine, it doesn't seem to have disintegrated.
 
 The antipsychotics can help stabilize you, and if you want to stop taking them because of the dreariness they cause, then work with your psychiatrist / therapist, to come up with a plan.
 
-It is worth getting better. It is challenging but I look back at Luthetus.Ide and I sometimes am brought to tears to think that I somehow made it. It feels like a goosebumps, chilling, beauty to look back at the time I spent. There have been lows, mediums, and highs. But these emotions all come together to create an experience that is worth it.
+It is worth getting better. It is challenging but I look back at Luthetus.Ide and I sometimes am brought to tears to think that I somehow made it so far. It feels like a goosebumps, chilling, beauty to look back at the time I spent. There have been lows, mediums, and highs. But these emotions all come together to create an experience that is worth it.
 
 ---
 
