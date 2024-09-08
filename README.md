@@ -194,4 +194,5 @@ I thought I was a good programmer until I started writing ["Luthetus.Ide" (githu
 ## More
 
 - [The Used - I Caught Fire (Official Music Video) | Warner Vault](https://youtu.be/VLoOx86A6bE?si=JdGPm0eanWltnJfS)
+- [Paramore: Brick By Boring Brick (OFFICIAL VIDEO)](https://youtu.be/A63VwWz1ij0?si=BCbUvrGMdOZQE-j2)
 
