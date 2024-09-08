@@ -41,7 +41,7 @@ I deliberated a lot prior to adding the song link.
 
 One line of the lyrics is: "you've got a beautiful brain but its disintegrated from all the medicine."
 
-This is how I felt while I was on antipsychotics. But, I want to make it clear that one shoud listen to their psychiatrist or therapist. They are trained, and want to help you.
+This is how I felt while I was on antipsychotics. But, I want to make it clear that one should listen to their psychiatrist or therapist. They are trained, and want to help you.
 
 I had been on pill form antipsychotics, and monthly injectables, for about a year at one point.
 
