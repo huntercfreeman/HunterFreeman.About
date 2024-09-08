@@ -31,8 +31,6 @@ For this reason, I don't like "The Myth of Sisyphus". I believe it focuses too m
 
 These days I happen to have fallen in love with an IDE. But it isn't about making an IDE. If one just finds something to fight for, it makes any experience in life more bearable. Because now you aren't just trudging through life, but moving with determination. I mentioned how I don't like the idea of "good" or "bad" things in life. As well, if one finds themselves obsessed with finding meaning in life. I myself find it best to accept that there is no grand meaning in life, but that it doesn't matter anyhow. I'm free to do what I want, knowing there isn't anything else I need be doing to fullfill the grand meaning. If you want to spend 12 hours programming an IDE, or spend 12 hours watching TV, the world won't suddenly fall out alignment.
 
-It is worth getting better. It is challenging but I look back at Luthetus.Ide and I sometimes am brought to tears to think that I somehow made it so far. It feels like a goosebumps, chilling, beauty to look back at the time I spent. There have been lows, mediums, and highs. But these emotions all come together to create an experience that is worth it.
-
 ---
 
 ## Background Information
