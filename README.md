@@ -274,3 +274,5 @@ take control of the UI Synchronization Context while awaiting an HTTP response, 
 of that await. Because although you did an 'await' the UI can't get access to the synchronization context because you're hogging it.
 
 I think I said that Photino was single threaded, I don't think I was correct there.
+
+I randomly decided to type this up before going to bed because the idea pop'd into my mind. I might come back to this text and clean it up later.
