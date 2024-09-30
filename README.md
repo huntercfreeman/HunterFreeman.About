@@ -10,6 +10,7 @@
 - Other again (2024)
 - Sample Title (2024)
 - More (2024)
+- Synchronization Context, what is it? (2024)
 
 ---
 
@@ -225,3 +226,51 @@ I thought I was a good programmer until I started writing ["Luthetus.Ide" (githu
 - [Paramore: Brick By Boring Brick (OFFICIAL VIDEO)](https://youtu.be/A63VwWz1ij0?si=BCbUvrGMdOZQE-j2)
 - [Grimes ft. Janelle Monáe - Venus Fly (Official Video)](https://youtu.be/eTLTXDHrgtw?si=y47jNr7qq2j36MQQ)
 - [Dreariness - Catharsis](https://youtu.be/1pVLsKm8iT8?si=xs0wOjjHKwLNnS0X)
+
+## Synchronization Context, what is it?:
+
+In the video I showcase that I have 0 idea what a synchronization context is,
+nor what .ConfigureAwait(false) is.
+
+So I'll link to the timestamp of the video, and given that a year or 2 have passed, I'll provide my current
+understanding of what a synchronization context is, perhaps I am correct perhaps I am not.
+
+https://www.youtube.com/live/tOHihL9Lf7Y?si=uzK0sz8RBw0JAYNq&t=3656
+
+Synchronization Context starts with the concept of a concurrent programming model.
+
+A concurrent programming model can be implemented in a few various ways.
+
+- 1: multiple processors, which allow multiple tasks to be then ran in parallel.
+
+- 2: Single processor and an 'async await' way of executing tasks.
+- 2a: This 'async await' can through a single processor, run many tasks (seemingly-parallel to a user)
+by using a state machine, to determine which task takes control of the processor whenever
+an 'await' is hit in the code.
+- 2b: The most ubiquitous example to me would be awating an HTTP request. The processor doesn't need
+to do anything during this time, so some other task can be given the opportunity to run.
+
+- 3: Multiple processors, and 'async await'.
+
+But, the issue with concurrent programming models, is locking state, so that it doesn't change out from under you
+due to a different task having mutated its state.
+
+So, a language native implementation of 'locking state' is with the synchronization context.
+
+You can attach to a task a synchronization context, and then in code you can check what the
+current synchronization context is. Maybe it is 'Thread.SynchronizationContext'.
+
+So, the UI thread, is in reality just the Task that was assigned the UI Synchronization Context.
+
+If you want to modify some state that is locked to a certain Synchronization Context, then you must
+Dispatch your 'action' or 'Func&lt;Task&gt;' etc... to that Task who has control of the Synchronization Context.
+
+Therefore, in Blazor we write 'await InvokeAsync(StateHasChanged);' for example.
+
+- 'await SomeMethodAsync.ConfigureAwait(false)' this is done in order to relinquish control of the synchronization
+context, so that it may be used elsewhere. I think the common example is in Blazor WASM apps where this is most often seen an issue.
+This is due to the single threaded runtime of WASM at the moment. So, if you neglect to add '.ConfigureAwait(false)', you can
+take control of the UI Synchronization Context while awaiting an HTTP response, and block the UI from updating for the entirety
+of that await. Because although you did an 'await' the UI can't get access to the synchronization context because you're hogging it.
+
+I think I said that Photino was single threaded, I don't think I was correct there.
