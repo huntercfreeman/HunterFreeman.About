@@ -276,3 +276,4 @@ of that await. Because although you did an 'await' the UI can't get access to th
 I think I said that Photino was single threaded, I don't think I was correct there.
 
 I randomly decided to type this up before going to bed because the idea pop'd into my mind. I might come back to this text and clean it up later.
+I read this back and it has the energy of the "Feeling cute might delete later" meme.
