@@ -11,6 +11,7 @@
 - Sample Title (2024)
 - More (2024)
 - Synchronization Context, what is it? (2024)
+- "The aliens aren't contacting us" (2024)
 
 ---
 
@@ -277,3 +278,8 @@ I think I said that Photino was single threaded, I don't think I was correct the
 
 I randomly decided to type this up before going to bed because the idea pop'd into my mind. I might come back to this text and clean it up later.
 I read this back and it has the energy of the "Feeling cute might delete later" meme.
+
+---
+
+## "The aliens aren't contacting us" (2024)
+- [invadervie cod montage video @biomez "do you really need anyone else"](https://youtu.be/Y4Fes8Up1tA?si=Y_asetOHl00iIDa8)
