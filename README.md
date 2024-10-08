@@ -284,6 +284,7 @@ I read this back and it has the energy of the "Feeling cute might delete later" 
 
 ## /em Holds ArrowUp, then ArrowDown; repeatedly
 - [it's 3am and you're thinking about your life | a playlist](https://youtu.be/ZmF19S1o5h4?si=wflqEioI5xe5QQ3H)
+- [Hard Techno Mix | Techno Rave Vol2](https://youtu.be/0PgdNJWzIsw?si=oD4LW6LJM_R2P6gn)
 
 ---
 
