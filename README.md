@@ -11,6 +11,7 @@
 - Sample Title (2024)
 - More (2024)
 - Synchronization Context, what is it? (2024)
+- /em Holds ArrowUp, then ArrowDown; repeatedly (2024)
 - "The aliens aren't contacting us" (2024)
 
 ---
@@ -281,5 +282,10 @@ I read this back and it has the energy of the "Feeling cute might delete later" 
 
 ---
 
-## "The aliens aren't contacting us" (2024)
+## /em Holds ArrowUp, then ArrowDown; repeatedly
+- [it's 3am and you're thinking about your life | a playlist](https://youtu.be/ZmF19S1o5h4?si=wflqEioI5xe5QQ3H)
+
+---
+
+## "The aliens aren't contacting us"
 - [invadervie cod montage video @biomez "do you really need anyone else"](https://youtu.be/Y4Fes8Up1tA?si=Y_asetOHl00iIDa8)
