@@ -13,6 +13,7 @@
 - Synchronization Context, what is it? (2024)
 - /em Holds ArrowUp, then ArrowDown; repeatedly (2024)
 - BIS (best in slot) keyboard and mouse (2024)
+- I Eat This Every Day (2024)
 - "The aliens aren't contacting us" (2024)
 
 ---
@@ -300,6 +301,42 @@ It has a "turn off computer" button and I can't stand when keyboards have these.
 But, you can disable it by changing what the computer does when you hit the power button.
 I then make sure to test it randomly to make sure it isn't going to turn off my computer
 if I accidentally hit it instead of the volume buttons that are RIGHT NEXT TO IT?!?!?!??!!!!!
+
+---
+
+## I Eat This Every Day (2024)
+Perdue Chicken Nuggets
+https://www.perdue.com/products/perdue-panko-chicken-nuggets/
+	20 pieces
+	1,150 calories
+	65 g fat
+	2,250 mg sodium
+	1,210 mg potassium
+	95 g carbs
+	45g protein
+	30 % daily iron
+
+Costco Trail Mix Packets
+https://www.costco.com/kirkland-signature-trail-mix-snack-packs%2C-2-oz%2C-28-count.product.100770569.html
+	3 packets
+	960 calories
+	60 g fat
+	240 mg sodium
+	1,140 mg potassium
+	72 g carbs
+	30 g protein
+	24 % daily iron
+	12 % daily calcium
+	
+Total
+	2.110 calories
+	125 g fat
+	2.490 mg sodium
+	2,350 mg potassium
+	167 g carbs
+	75 g protein
+	54 % daily iron
+	12 % daily calcium
 
 ---
 
