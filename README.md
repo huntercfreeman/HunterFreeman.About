@@ -344,7 +344,7 @@ Total
 ---
 
 ## I Am a Bad Programmer
-- I program every day. I am a bad programmer, but I am aware of my faults, and through metacognition I overcome them.
+- I am a bad programmer, but I am aware of my faults. I actively think about the process of thinking itself, in order to optimize my ability to problem solve. I am certain to reflect on experiences. And that a good outcome does not necessarily equate to a good decision; the same holds true for bad outcomes. Through this metacognition and self reflection, I can grow beyond my faults and learn things that initially horrify me with their complexity.
 - I avoid excess caffeine. I enjoy my fair share of caffeine, but I make sure it doesn't mess with my sleep. Sleep is extremely important to me. I plan how I will find time to sleep, and preferably I lay in the bed 8 to 9 hours from when I'm going to wake up.
 - In the "Background Information" section I said that I: "dropped out of college, live with my parents, and am unemployed". Please do NOT follow my path. When I hear a song brag about dropping out of college I cringe immensely. I mentioned those things because it paints a picture of who I am. Do NOT follow in my footsteps.
 
