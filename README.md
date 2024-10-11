@@ -12,6 +12,7 @@
 - More (2024)
 - Synchronization Context, what is it? (2024)
 - /em Holds ArrowUp, then ArrowDown; repeatedly (2024)
+- BIS (best in slot) keyboard and mouse (2024)
 - "The aliens aren't contacting us" (2024)
 
 ---
@@ -285,6 +286,15 @@ I read this back and it has the energy of the "Feeling cute might delete later" 
 ## /em Holds ArrowUp, then ArrowDown; repeatedly
 - [it's 3am and you're thinking about your life | a playlist](https://youtu.be/ZmF19S1o5h4?si=wflqEioI5xe5QQ3H)
 - [Hard Techno Mix | Techno Rave Vol2](https://youtu.be/0PgdNJWzIsw?si=oD4LW6LJM_R2P6gn)
+
+---
+
+## BIS (best in slot) keyboard and mouse
+- https://www.amazon.com/Rii-RKM709-Gigahertz-Ultra-Slim-Multimedia/dp/B0CNSNTR8S/
+$19 compact keyboard with mouse that has back and forwards side buttons -- wireless dongle
+I use this bad boy. Pref would be wired so no batteries. Can swap out the mouse for a wired one
+to save batteries, but the keyboard is irreplaceable. I think this is better
+than any keyboard out there, it isn't only about low cost, it also is simply the best.
 
 ---
 
