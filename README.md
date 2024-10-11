@@ -341,6 +341,8 @@ Total
 - 54 % daily iron
 - 12 % daily calcium
 
+Dinner: Anything I want preferably less than 500 calories. I am 6'2 and weigh 250 lbs. I should lose some weight but I at the least find 2,600 calories and I maintain the weight so that is nice I guess.
+
 ---
 
 ## I Am a Bad Programmer
