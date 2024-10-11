@@ -297,6 +297,7 @@ $19 compact keyboard with mouse that has back and forwards side buttons -- wirel
 I use this bad boy. Pref would be wired so no batteries. Can swap out the mouse for a wired one
 to save batteries, but the keyboard is irreplaceable. I think this is better
 than any keyboard out there, it isn't only about low cost, it also is simply the best.
+I use this keyboard even when I play a videogame on my computer.
 
 It has a "turn off computer" button and I can't stand when keyboards have these.
 But, you can disable it by changing what the computer does when you hit the power button.
