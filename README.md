@@ -307,6 +307,7 @@ if I accidentally hit it instead of the volume buttons that are RIGHT NEXT TO IT
 ## I Eat This Every Day (2024)
 Breakfast: Perdue Chicken Nuggets
 - https://www.perdue.com/products/perdue-panko-chicken-nuggets/
+- I microwave all 20 of them for 4 minutes 20 seconds (I'm not joking it by chance aligns with the 420 meme it isn't intentional)
 - 20 pieces
 - 1,150 calories
 - 65 g fat
