@@ -296,6 +296,11 @@ I use this bad boy. Pref would be wired so no batteries. Can swap out the mouse 
 to save batteries, but the keyboard is irreplaceable. I think this is better
 than any keyboard out there, it isn't only about low cost, it also is simply the best.
 
+It has a "turn off computer" button and I can't stand when keyboards have these.
+But, you can disable it by changing what the computer does when you hit the power button.
+I then make sure to test it randomly to make sure it isn't going to turn off my computer
+if I accidentally hit it instead of the volume buttons that are RIGHT NEXT TO IT?!?!?!??!!!!!
+
 ---
 
 ## "The aliens aren't contacting us"
