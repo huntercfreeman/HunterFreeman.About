@@ -343,7 +343,8 @@ Total
 ---
 
 ## I Am a Bad Programmer
-I program every day. I am a bad programmer, but I am aware of my falts, and through metacognition I overcome them.
+- I program every day. I am a bad programmer, but I am aware of my faults, and through metacognition I overcome them.
+- I avoid excess caffeine. I enjoy my fair share of caffeine, but I make sure it doesn't mess with my sleep. Sleep is extremely important to me. I plan how I will find time to sleep, and preferably I lay in the bed at least 8 hours from when I'm going to wake up. Preferably 9 hours from when I'm going to wake up.
 
 ---
 
