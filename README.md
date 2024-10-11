@@ -14,6 +14,7 @@
 - /em Holds ArrowUp, then ArrowDown; repeatedly (2024)
 - BIS (best in slot) keyboard and mouse (2024)
 - I Eat This Every Day (2024)
+- I Am a Bad Programmer (2024)
 - "The aliens aren't contacting us" (2024)
 
 ---
@@ -338,6 +339,11 @@ Total
 - 75 g protein
 - 54 % daily iron
 - 12 % daily calcium
+
+---
+
+## I Am a Bad Programmer
+I program every day. I am a bad programmer, but I am aware of my falts, and through metacognition I overcome them.
 
 ---
 
