@@ -285,16 +285,20 @@ I read this back and it has the energy of the "Feeling cute might delete later" 
 
 ... I said something [about Task.Run(...) in the video](https://www.youtube.com/live/tOHihL9Lf7Y?si=4akTHnC_8PHOKVkI&t=1992). Any task you start runs hot, i.e.: it immediately begins invoking (maybe thread starvation would be an edge case?). At the time of the video, I didn't understand how tasks are ran. You don't have to await the task it immediately starts running even if you capture a variable reference to it like:
 ```csharp
-var task = SomethingAsync();
-// task running at this point I don't have to await it.
+// Don't have to await a task for it to run
+{
+	var task = SomethingAsync();
+	// task running at this point I don't have to await it.
+	
+	// Similarly:
+	var task = Task.Run(() => Task.Delay(500));
+}
 
-// Similarly:
-var task = Task.Run(() => Task.Delay(500));
 
 // The "classic" scenario where you ask a friend to ask a friend to do something:
-await Task.Run(async () => await Task.Delay(500));
-// In retrospect I want to clarify this one
 {
+	await Task.Run(async () => await Task.Delay(500));
+
 	await Task.Run(async () => await Task.Delay(500));
 	// is the same as
 	await Task.Delay(500);
@@ -309,38 +313,44 @@ await Task.Run(async () => await Task.Delay(500));
 	// Would make a task out of the work item and you could continue execution while it ran.
 }
 
-// Actually define SomethingThoughtToBeAsync...
-public Task SomethingThoughtToBeAsync()
+// Asynchronous code that runs synchronously
 {
-	return Task.CompletedTask;
+	// Actually define SomethingThoughtToBeAsync...
+	public Task SomethingThoughtToBeAsync()
+	{
+		return Task.CompletedTask;
+	}
+	
+	// SynchronizationContext is UI
+	await SomethingThoughtToBeAsync().ConfigureAwait(false);
+	
+	// SynchronizationContext is still UI
+	// because 'SomethingThoughtToBeAsync()' ran synchronously.
 }
 
-// SynchronizationContext is UI
-await SomethingThoughtToBeAsync().ConfigureAwait(false);
-
-// SynchronizationContext is still UI
-// because 'SomethingThoughtToBeAsync()' ran synchronously.
-
-public Task OneAnotherExampleAsync()
+// 'async' keyword optimizations
 {
-	return Task.CompledTask;
+	public Task OneAnotherExampleAsync()
+	{
+		return Task.CompledTask;
+	}
+	
+	public async Task TwoAnotherExampleAsync()
+	{
+		// 'return;' doesn't need to be explicitly written here
+		return;
+	}
+	
+	// OneAnotherExampleAsync() is more optimized than TwoAnotherExampleAsync()
+	// because the 'async' keyword in the method signature for
+	// TwoAnotherExampleAsync() causes the asynchronous overhead
+	// to be wired up (the statemachine).
+	//
+	// But, OneAnotherExampleAsync() isn't as exact with the stack trace
+	// in the event of an exception.
+	//
+	// Whereas TwoAnotherExampleAsync() is more exact
 }
-
-public async Task TwoAnotherExampleAsync()
-{
-	// 'return;' doesn't need to be explicitly written here
-	return;
-}
-
-// OneAnotherExampleAsync() is more optimized than TwoAnotherExampleAsync()
-// because the 'async' keyword in the method signature for
-// TwoAnotherExampleAsync() causes the asynchronous overhead
-// to be wired up (the statemachine).
-//
-// But, OneAnotherExampleAsync() isn't as exact with the stack trace
-// in the event of an exception.
-//
-// Whereas TwoAnotherExampleAsync() is more exact
 ```
 
 ---
