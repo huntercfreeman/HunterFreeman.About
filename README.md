@@ -293,7 +293,6 @@ var task = Task.Run(() => Task.Delay(500));
 
 // The "classic" scenario where you ask a friend to ask a friend to do something:
 await Task.Run(async () => await Task.Delay(500));
-
 // In retrospect I want to clarify this one
 {
 	await Task.Run(async () => await Task.Delay(500));
