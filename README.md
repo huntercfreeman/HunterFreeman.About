@@ -248,11 +248,11 @@ A concurrent programming model can be implemented in a few various ways.
 
 - 1: multiple processors, which allow multiple tasks to be then ran in parallel.
 
-- 2: Single processor and an 'async await' way of executing tasks.
-- 2a: This 'async await' can through a single processor, run many tasks (seemingly-parallel to a user)
+- 2a: Single processor and an 'async await' way of executing tasks.
+- 2b: This 'async await' can through a single processor, run many tasks (seemingly-parallel to a user)
 by using a state machine, to determine which task takes control of the processor whenever
 an 'await' is hit in the code.
-- 2b: The most ubiquitous example to me would be awating an HTTP request. The processor doesn't need
+- 2c: The most ubiquitous example to me would be awating an HTTP request. The processor doesn't need
 to do anything during this time, so some other task can be given the opportunity to run.
 
 - 3: Multiple processors, and 'async await'.
