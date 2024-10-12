@@ -320,7 +320,7 @@ I read this back and it has the energy of the "Feeling cute might delete later" 
 	// it IS at times useful to await that.
 	//
 	// Because at that point you're saying, I don't have permission or that
-	// it would be against thread safety for you to touch the data,
+	// it would be against thread safety for you to touch the data.
 	//
 	// But, that you want to wait for the results, rather than have it run in the background.
 }
