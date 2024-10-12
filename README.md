@@ -349,6 +349,41 @@ I read this back and it has the energy of the "Feeling cute might delete later" 
 	//
 	// Whereas TwoAnotherExampleAsync() is more exact
 }
+
+// while(true) tasks... CancellationToken
+{
+	_ = Task.Run(async () =>
+	{
+		while (true)
+		{
+			Console.WriteLine("Qwerty");
+		}
+	});
+	// This is more of a 'Task.Ruin' than 'Task.Run' scenario
+	// Who is going to stop the 'Task' during the programs execution?
+
+	var cancellationTokenSource = new CancellationTokenSource();
+	var cancellationToken = cancellationTokenSource.Token;
+
+	_ = Task.Run(async () =>
+	{
+		while (!cancellationToken.IsCancellationRequested)
+		{
+			Console.WriteLine("Qwerty");
+		}
+
+		Console.WriteLine("Finished");
+	});
+
+	// 1,000 milliseconds
+	await Task.Delay(1_000);
+
+	cancellationTokenSource.Cancel();
+	cancellationTokenSource.Dispose();
+
+	// There are other ways to do this such as try {} catch() {}
+	// since a cancelled task throws an exception.
+}
 ```
 
 ---
