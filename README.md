@@ -283,7 +283,7 @@ I think I said that Photino was single threaded, I don't think I was correct the
 I randomly decided to type this up before going to bed because the idea pop'd into my mind. I might come back to this text and clean it up later.
 I read this back and it has the energy of the "Feeling cute might delete later" meme.
 
-... I said something about Task.Run(...) in the video ([link](https://www.youtube.com/live/tOHihL9Lf7Y?si=4akTHnC_8PHOKVkI&t=1992)). Any task you start runs hot, i.e.: it immediately begins invoking (maybe thread starvation would be an edge case?). At the time of the video, didn't understand how tasks are ran. You don't have to await the task it immediately starts running even if you capture a variable reference to it like:
+... I said something [about Task.Run(...) in the video](https://www.youtube.com/live/tOHihL9Lf7Y?si=4akTHnC_8PHOKVkI&t=1992). Any task you start runs hot, i.e.: it immediately begins invoking (maybe thread starvation would be an edge case?). At the time of the video, didn't understand how tasks are ran. You don't have to await the task it immediately starts running even if you capture a variable reference to it like:
 ```csharp
 var task = SomethingAsync();
 // task running at this point I don't have to await it.
