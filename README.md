@@ -309,6 +309,20 @@ I read this back and it has the energy of the "Feeling cute might delete later" 
 		Console.WriteLine("Asdfgh");
 	});
 	// Would make a task out of the work item and you could continue execution while it ran.
+
+	// But, this technique is actually useful.
+	//
+	// By "classic" I mean to say, if it has been a long programming session,
+	// and I'm getting tired, I sometimes find myself writing the example I gave
+	// where it wasn't done intentionally.
+	//
+	// If one wants to dispatch work to a synchronization context, or a background thread,
+	// it IS at times useful to await that.
+	//
+	// Because at that point you're saying, I don't have permission or that
+	// it would be against thread safety for you to touch the data,
+	//
+	// But, that you want to wait for the results, rather than have it run in the background.
 }
 
 // Asynchronous code that runs synchronously
