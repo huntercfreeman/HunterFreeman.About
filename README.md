@@ -294,6 +294,22 @@ var task = Task.Run(() => Task.Delay(500));
 // The "classic" scenario where you ask a friend to ask a friend to do something:
 await Task.Run(async () => await Task.Delay(500));
 
+/* START In retrospect I want to clarify this one.*/
+await Task.Run(async () => await Task.Delay(500));
+// is the same as
+await Task.Delay(500);
+// but with more overhead specifically because Task.Run is being awaited.
+
+Capture it as a variable, or use "discard" which is '_' (underscore).
+_ = Task.Run(async () =>
+{
+	await Task.Delay(500);
+	Console.WriteLine("Asdfgh");
+});
+
+Would make a task out of the work item and you could continue execution while it ran.
+/* END In retrospect I want to clarify this one. */
+
 // Actually define SomethingThoughtToBeAsync...
 public Task SomethingThoughtToBeAsync()
 {
