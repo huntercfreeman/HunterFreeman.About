@@ -357,6 +357,7 @@ I read this back and it has the energy of the "Feeling cute might delete later" 
 		while (true)
 		{
 			Console.WriteLine("Qwerty");
+			Task.Delay(100); // 100 milliseconds
 		}
 	});
 	// This is more of a 'Task.Ruin' than 'Task.Run' scenario
@@ -370,6 +371,7 @@ I read this back and it has the energy of the "Feeling cute might delete later" 
 		while (!cancellationToken.IsCancellationRequested)
 		{
 			Console.WriteLine("Qwerty");
+			Task.Delay(100); // 100 milliseconds
 		}
 
 		Console.WriteLine("Finished");
