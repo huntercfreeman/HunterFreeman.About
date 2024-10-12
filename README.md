@@ -298,8 +298,6 @@ I read this back and it has the energy of the "Feeling cute might delete later" 
 // The "classic" scenario where you ask a friend to ask a friend to do something:
 {
 	await Task.Run(async () => await Task.Delay(500));
-
-	await Task.Run(async () => await Task.Delay(500));
 	// is the same as
 	await Task.Delay(500);
 	// but with more overhead specifically because Task.Run is being awaited.
