@@ -283,6 +283,51 @@ I think I said that Photino was single threaded, I don't think I was correct the
 I randomly decided to type this up before going to bed because the idea pop'd into my mind. I might come back to this text and clean it up later.
 I read this back and it has the energy of the "Feeling cute might delete later" meme.
 
+... I said something about Task.Run(...) in the video. Any task you start runs hot, i.e.: it immediately begins invoking (maybe thread starvation would be an edge case?). At the time of the video, didn't understand how tasks are ran. You don't have to await the task it immediately starts running even if you capture a variable reference to it like:
+```csharp
+var task = SomethingAsync();
+// task running at this point I don't have to await it.
+
+// Similarly:
+var task = Task.Run(() => Task.Delay(500));
+
+// The "classic" scenario where you ask a friend to ask a friend to do something:
+await Task.Run(async () => await Task.Delay(500));
+
+// Actually define SomethingThoughtToBeAsync...
+public Task SomethingThoughtToBeAsync()
+{
+	return Task.CompletedTask;
+}
+
+// SynchronizationContext is UI
+await SomethingThoughtToBeAsync().ConfigureAwait(false);
+
+// SynchronizationContext is still UI
+// because 'SomethingThoughtToBeAsync()' ran synchronously.
+
+public Task OneAnotherExampleAsync()
+{
+	return Task.CompledTask;
+}
+
+public async Task TwoAnotherExampleAsync()
+{
+	// 'return;' doesn't need to be explicitly written here
+	return;
+}
+
+// OneAnotherExampleAsync() is more optimized than TwoAnotherExampleAsync()
+// because the 'async' keyword in the method signature for
+// TwoAnotherExampleAsync() causes the asynchronous overhead
+// to be wired up (the statemachine).
+//
+// But, OneAnotherExampleAsync() isn't as exact with the stack trace
+// in the event of an exception.
+//
+// Whereas TwoAnotherExampleAsync() is more exact
+```
+
 ---
 
 ## /em Holds ArrowUp, then ArrowDown; repeatedly
