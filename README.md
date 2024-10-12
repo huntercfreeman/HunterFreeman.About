@@ -313,7 +313,7 @@ I read this back and it has the energy of the "Feeling cute might delete later" 
 
 // Asynchronous code that runs synchronously
 {
-	// Actually define SomethingThoughtToBeAsync...
+	// Define SomethingThoughtToBeAsync...
 	public Task SomethingThoughtToBeAsync()
 	{
 		return Task.CompletedTask;
