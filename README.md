@@ -351,7 +351,7 @@ Dinner: Anything I want preferably less than 500 calories. I am 6'2 and weigh 25
 - I avoid excess caffeine. I enjoy my fair share of caffeine, but I make sure it doesn't mess with my sleep. Sleep is extremely important to me. I plan how I will find time to sleep, and preferably I lay in the bed 8 to 9 hours from when I'm going to wake up.
 - Exercise has a massive impact on my ability to focus. I tend to go for a 1 hour walk every day. I sometimes want to do more, but just be wary of consistency. Don't "weekend warrior" it, then spend a week doing nothing.
 - I have never drank alcohol, and I never smoked marijuana or anything nicotine related. Furthermore, I never intend to consume them in the future. I am sharing this info in order to more clearly show who I am. Because, the Clips section of this repo showcases a lot of "drug" related videos. My feelings about this topic is more nuanced than what might be presumed by someone who glances at this repository. If I ever find time to write about it maybe I will, but this is at the least a brief clarification for now.
-- In the "Background Information" section I said that I: "dropped out of college, live with my parents, and am unemployed". Please do NOT follow my path. When I hear a song brag about dropping out of college I cringe immensely. I mentioned those things because it paints a picture of who I am. Do NOT follow in my footsteps.
+- In the "Background Information" section I said that I: "dropped out of college, live with my parents, and am unemployed". When I hear a song brag about dropping out of college I cringe immensely. I mentioned those things because it paints a picture of who I am. Do NOT follow in my footsteps.
 
 ---
 
