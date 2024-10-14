@@ -333,11 +333,9 @@ I read this back and it has the energy of the "Feeling cute might delete later" 
 		return Task.CompletedTask;
 	}
 	
-	// SynchronizationContext is UI
-	await SomethingThoughtToBeAsync().ConfigureAwait(false);
-	
-	// SynchronizationContext is still UI
-	// because 'SomethingThoughtToBeAsync()' ran synchronously.
+	var task = SomethingThoughtToBeAsync();
+	Console.WriteLine(task.IsCompleted);
+	// Will write out True, because the code ran synchronously.
 }
 
 // 'async' keyword optimizations
