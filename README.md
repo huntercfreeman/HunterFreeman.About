@@ -336,6 +336,16 @@ I read this back and it has the energy of the "Feeling cute might delete later" 
 	var task = SomethingThoughtToBeAsync();
 	Console.WriteLine(task.IsCompleted);
 	// Will write out True, because the code ran synchronously.
+
+	// At first I had the following example here,
+	// but I'm second guessing if it is correct:
+	{
+		// SynchronizationContext is UI
+		await SomethingThoughtToBeAsync().ConfigureAwait(false);
+	
+		// SynchronizationContext is still UI
+		// because 'SomethingThoughtToBeAsync()' ran synchronously.
+	}
 }
 
 // 'async' keyword optimizations
