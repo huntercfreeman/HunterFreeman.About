@@ -196,7 +196,7 @@ I thought I was a good programmer until I started writing ["Luthetus.Ide" (githu
 - [Blade and Bath - Shot](https://youtu.be/2X-K28nCEo8?si=LwW-ysbAe2idMyRu)
 - [Decalius - Shotgun (DSBM)](https://youtu.be/9T7khobqXj4?si=RUYcYFsZHBBR1Wml)
 - [Smother - My brain (Ft. The Lonely) (Dsbm)](https://youtu.be/isXdSDedN-E?si=bYpC4QC2chEr0Nbw)
-- [Dreariness - My Mind Is Too Weak to Forget](https://youtu.be/fY1nmJW343A?si=bvVex4zgCv832_iV)
+- [Dreariness - My Mind is too Weak to Forget](https://youtu.be/o6i5FnSpO6Q?si=b361TP0Jo38rmnP_)
 - [Amesoeurs - Faiblesse des sens - Subtitulada en Español](https://youtu.be/o6-ArGDTOlo?si=A2k9oxYn4Xhc8COL)
 - [Blue October - Into The Ocean](https://youtu.be/ZES3nJQYJok?si=aHwxn9gkPRbYQh2C)
 - [Avril Lavigne - I'm With You (Official Video)](https://youtu.be/dGR65RWwzg8?si=-MoXvcP-kKIJLRFz)
