@@ -15,6 +15,7 @@
 - [BIS (best in slot) keyboard and mouse (2024)](#bis-best-in-slot-keyboard-and-mouse)
 - [I Eat This Every Day (2024)](#i-eat-this-every-day)
 - [Desire to Improve (2024)](#desire-to-improve)
+- [Asdfg](#asdfg)
 - ["The aliens aren't contacting us" (2024)](#the-aliens-arent-contacting-us)
 
 ---
@@ -492,6 +493,11 @@ Dinner: Anything I want preferably less than 500 calories. I am 6'2 and weigh 25
 - (2024-11-24) I link to some 'DSBM' genre music in this repo. 'DSBM' stands for 'Depressive Suicidal Black Metal'. The intent isn't to include the music for the sake of being edgy. This genre of music perfectly 'sounds' the way it 'feels'. Some songs in this genre lean a bit towards misanthropy, I find this very unsettling and I don't like when a 'DSBM' song has these topics in it. To me the 'DSBM' I listen to focuses on depression and suicide. The 'DSBM' that I condemn is about jealousy, anger, and homicide. The comment sections of 'DSBM' songs are always extremely supportive. As well, I think it is helpful to validate feelings. It is soothing to listen to the genre because it validates how one truly feels rather than sugar coating it. But, one also has to be careful because 'DSBM' can also be an anchor that keeps you in that depressed mood.
 - [seal.mp4](https://youtu.be/Lmw4lzjEqD8?si=gHqXKqNUnIE6FN5I)
 - This entire repo is "cringe" for me to look at. I mention this because some might think I am egotistical for writing these things out. And others might see my writing and laugh because of how poorly written it is. For example, see the run on sentence where I talk about pushing a boulder up a hill. Or, even just the embarassment I feel from speaking about these topics. But, I'm forcing myself to type these things out, because when I was struggling this kind of repo is what I was searching for.
+
+---
+
+## Asdfg
+- [Death Grips - You might think he loves you for your money but I know what he really loves you for...](https://youtu.be/y2cQvZPX3OY?si=hf0PvYWk_12Iiljm)
 
 ---
 
