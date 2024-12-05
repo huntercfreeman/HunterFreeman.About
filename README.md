@@ -501,6 +501,7 @@ Dinner: Anything I want preferably less than 500 calories. I am 6'2 and weigh 25
 - [Silhouettes-Forlornness(DSBM)](https://youtu.be/IVfMO5w2gmQ?si=CPvAybxSFc6FGx8t)
 - [Borgeous - Invincible (Official Music Video)](https://youtu.be/Yb5j4GheNTk?si=r0d9Gxd9txCawq7e)
 - [PSYCHONAUT 4 - Sterile Nails and Thunderbowels (SILENCER cover) (subtitulado)](https://youtu.be/g-UCk5Ke81o?si=In3sJTfo2bk4kB1l)
+- [Sia - Chandelier | Edit Azept hardstyle bootleg (1080p)](https://youtu.be/F_4QUzWhfoE?si=J_C8dVDBg1JlgmtD)
 
 ---
 
