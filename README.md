@@ -18,7 +18,7 @@
 - [Asdfg](#asdfg)
 - [Gfdsa](#gfdsa)
 - ["The aliens aren't contacting us" (2024)](#the-aliens-arent-contacting-us)
-- I unlisted the playlists I had cause I'm tired of being recommended them, lol. Here are the links:
+- I unlisted the playlists I had cause so they stop being recommended by youtube to people randomly. Here are the links:
     - [HunterFreeman.About](https://youtube.com/playlist?list=PLG4PTDe2qc0iRKs0rWmOO95-KpzruxwRp&si=K_QK0UAyZLHpB9Ly)
     - [Up](https://youtube.com/playlist?list=PLG4PTDe2qc0g4xUwUpmDNuna15bYY23Tm&si=OgcAMqgSk2_KcmcT)
     - [Down](https://youtube.com/playlist?list=PLG4PTDe2qc0gx4BGoWrhHOl9etg-7vwRU&si=mDuggL1DHL03ZbtD)
