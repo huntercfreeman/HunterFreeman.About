@@ -18,6 +18,11 @@
 - [Asdfg](#asdfg)
 - [Gfdsa](#gfdsa)
 - ["The aliens aren't contacting us" (2024)](#the-aliens-arent-contacting-us)
+- I "unlisted" the playlists I had cause I'm tired of being recommended them, lol. Here are the links:
+    - https://youtube.com/playlist?list=PLG4PTDe2qc0gG4zsW9KnNRFPV09hpjLRW&si=-mE_MgcRsTxaES7P
+    - https://youtube.com/playlist?list=PLG4PTDe2qc0iRKs0rWmOO95-KpzruxwRp&si=K_QK0UAyZLHpB9Ly
+    - https://youtube.com/playlist?list=PLG4PTDe2qc0gx4BGoWrhHOl9etg-7vwRU&si=mDuggL1DHL03ZbtD
+    - https://youtube.com/playlist?list=PLG4PTDe2qc0g4xUwUpmDNuna15bYY23Tm&si=OgcAMqgSk2_KcmcT
 
 ---
 
