@@ -1,5 +1,7 @@
 # HunterFreeman.About
 
+(2025-05-12) Updated BIS
+
 ## Table of Contents (some video links have a lot of flashing lights)
 - [Explanation of this repo (2024)](#explanation-of-this-repo)
 - [Background Information (written during 2023)](#background-information)
@@ -441,6 +443,13 @@ It has a "turn off computer" button and I can't stand when keyboards have these.
 But, you can disable it by changing what the computer does when you hit the power button.
 I then make sure to test it randomly to make sure it isn't going to turn off my computer
 if I accidentally hit it instead of the volume buttons that are RIGHT NEXT TO IT?!?!?!??!!!!!
+
+*UPDATE*:
+- https://www.amazon.com/dp/B09KV13QBN
+![image](https://github.com/user-attachments/assets/a8ff9849-0921-4ecc-afda-18297824bb51)
+
+$25 for wired keyboard, no batteries anymore.
+Perixx PERIBOARD-432 Wired Mini USB Keyboard - X Type Scissor Keys - Big Print Keys - US English, Black
 
 ---
 
